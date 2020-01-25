@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-templates-blog-post-js","path":"/postgres/","result":{"data":{"markdownRemark":{"html":"<h2>postgres database setup</h2>","frontmatter":{"title":"postgres"}}},"pageContext":{"isCreatedByStatefulCreatePages":false,"slug":"/postgres/"}}}
+{"componentChunkName":"component---src-templates-blog-post-js","path":"/postgres/","result":{"data":{"markdownRemark":{"html":"<h2>postgres database setup</h2>","frontmatter":{"title":"postgres"}}},"pageContext":{"slug":"/postgres/"}}}

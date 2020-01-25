@@ -1,1 +1,1 @@
-{"componentChunkName":"component---cache-dev-404-page-js","path":"/dev-404-page/","result":{"data":{"allSitePage":{"nodes":[{"path":"/graphql/"},{"path":"/postgres/"},{"path":"/blog/"},{"path":"/errors/"},{"path":"/"}]}},"pageContext":{"isCreatedByStatefulCreatePages":true}}}
+{"componentChunkName":"component---cache-dev-404-page-js","path":"/dev-404-page/","result":{"data":{"allSitePage":{"nodes":[{"path":"/postgres/"},{"path":"/graphql/"},{"path":"/blog/"},{"path":"/errors/"},{"path":"/"}]}},"pageContext":{}}}
