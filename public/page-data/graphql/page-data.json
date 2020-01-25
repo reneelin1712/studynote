@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-blog-post-js","path":"/graphql/","result":{"data":{"markdownRemark":{"html":"<h2>Familar with graphQL</h2>\n<ol>\n<li>schema</li>\n<li>query</li>\n<li>apollo</li>\n</ol>","frontmatter":{"title":"graphQL"}}},"pageContext":{"isCreatedByStatefulCreatePages":false,"slug":"/graphql/"}}}
